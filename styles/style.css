@@ -1,0 +1,34 @@
+html {
+    font-family: 'Tangerine', serif;
+    text-shadow: 4px 4px 4px rgb(237, 198, 198);
+    font-size: 1.5rem;
+}
+
+body {
+    max-width: 980px;
+    margin: auto;
+    background-color: #2F3C7E;
+    /* box-sizing: border-box; */
+}
+
+.container {
+    border: 0.75px solid black;
+    padding: 0 20px 20px 20px;
+    background-color: #FBEAEB;
+}
+
+h1 {
+    color: rgb(113, 22, 22);
+    font-size: 3rem;
+}
+
+.banner img {
+    width: 95%;
+    display:block;
+    margin:0 auto;
+}
+
+/* 
+p {
+    color: red;
+} */
